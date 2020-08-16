@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fs7lP3J486mci6zRXYZ/VXv54/rFXHXl1/2K+JeelJ7svScS3bFTtapvPVJwoZyxnUf7/+KCPqHEQE0EDFzXHw==",
+  "success": true,
+  "projectFilePath": "D:\\Предмети\\MyProject\\FairyBlog\\MongoDb\\MongoDb.Data.Mongo.Models\\MongoDb.Data.Mongo.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mongodb.bson\\2.11.0\\mongodb.bson.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
